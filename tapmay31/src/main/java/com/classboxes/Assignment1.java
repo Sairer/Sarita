@@ -17,7 +17,7 @@ public class Assignment1{
 		*/
 		//creating scanner object
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("please enter number of units");
+		System.out.print("please enter number of units: ");
 		 //  declare variable units    
 		int units=scanner.nextInt();
 		 scanner.close();
